@@ -1,0 +1,6 @@
+packer-plugin-googlecompute: copyright-without-copyright-notice
+packer-plugin-googlecompute: initial-upload-closes-no-bugs
+packer-plugin-googlecompute: no-manual-page
+packer-plugin-googlecompute: shared-library-lacks-prerequisites
+packer-plugin-googlecompute: statically-linked-binary
+packer-plugin-googlecompute: zero-byte-file-in-doc-directory
